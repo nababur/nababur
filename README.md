@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nababur Rahaman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
+<h3 align="center">A passionate frontend and backend developer(PHP,Wp,Laravel) from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababur&label=Profile%20views&color=0e75b6&style=flat" alt="nababur" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/nababurbd" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/nababurbd?logo=twitter&style=for-the-badge" alt="https://twitter.com/nababurbd" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🔭 I’m currently working on [Loop Software](https://www.loop.software/)
+
+- 🌱 I’m currently learning **React, Vue Js**
 
 - 📝 I regularly write articles on [https://codeceil.com/](https://codeceil.com/)
 
