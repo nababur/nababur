@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://dw3i9sxi97owk.cloudfront.net/uploads/covers/f39e71607db71ea3b6c5994ae7af0aa8.jpg" >
+
 
 <h1 align="center">Hi 👋, I'm Nababur Rahaman</h1>
 <h3 align="center">A passionate frontend and backend developer(PHP,Wp,Laravel) from Bangladesh</h3>
