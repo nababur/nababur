@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://codeceil.com/](https://codeceil.com/)
 
-- 💬 Ask me about **Wordpress, Laravel, PHP, MysQl,**
+- 💬 Ask me about **Wordpress, Laravel, PHP, MysQl**
 
 - 📫 How to reach me **nababurdev@gmail.com**
 
