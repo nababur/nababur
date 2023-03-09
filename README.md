@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="100%" src="https://dw3i9sxi97owk.cloudfront.net/uploads/covers/f39e71607db71ea3b6c5994ae7af0aa8.jpg" >
+
 <h1 align="center">Hi 👋, I'm Nababur Rahaman</h1>
 <h3 align="center">A passionate frontend and backend developer(PHP,Wp,Laravel) from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
@@ -11,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://codeceil.com/](https://codeceil.com/)
 
-- 💬 Ask me about **Wordpress, Laravel, PHP, MysQL**
+- 💬 Ask me about **Wordpress, Laravel, PHP, MysQl,**
 
 - 📫 How to reach me **nababurdev@gmail.com**
 
