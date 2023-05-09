@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/nababurbd" target="blank"><img src="https://img.shields.io/twitter/follow/nababurbd?logo=twitter&style=for-the-badge" alt="nababurbd" /></a> </p>
 
-- 🔭 I’m currently working on as a Wordpress Dev [exp.uk](https://exp.uk.com/)
+- 🔭 I’m currently working on as a Wordpress & Laravel Dev.
 
 - 🌱 I’m currently learning **React, Vue Js**
 
