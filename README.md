@@ -13,13 +13,12 @@
 
 - 🌱 I’m currently learning **React, Vue Js**
 
-- 📝 I regularly write articles on [https://codeceil.com/](https://codeceil.com/)
+- 📝 I regularly write articles on [https://nababur.dev/](https://nababur.dev/)
 
 - 💬 Ask me about **Wordpress, Laravel, PHP, MysQL**
 
 - 📫 How to reach me **nababurdev@gmail.com**
 
-- 📄 Know about my experiences [https://gridtemplate.com/](https://gridtemplate.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
