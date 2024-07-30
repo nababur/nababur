@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Wordpress, Laravel, PHP, MysQL**
 
-- 📫 How to reach me **nababurdev@gmail.com**
+- 📫 How to reach me **nababur.dns@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
