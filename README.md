@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://nababur.com/](https://nababur.com/)
 
-- 💬 Ask me about **Wordpress, Laravel, PHP, MysQL**
+- 💬 Ask me about **PHP, MysQL, Wordpress, Laravel**
 
 - 📫 How to reach me **nababurdev@gmail.com**
 
