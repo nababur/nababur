@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working as a WordPress & Laravel Dev.
 
-- 🌱 I’m currently learning **React, Vue Js**
+- 🌱 I’m currently learning **React, Vue Js, Next Js**
 
 - 📝 I regularly write articles on [https://nababur.com/](https://nababur.com/)
 
