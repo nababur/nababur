@@ -2,21 +2,19 @@
 
 
 <h1 align="center">Hi 👋, I'm Nababur Rahaman</h1>
-<h3 align="center">A passionate frontend and backend developer(PHP, Wp, Laravel) from Bangladesh</h3>
+<h3 align="center">A passionate WordPress developer</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababur&label=Profile%20views&color=0e75b6&style=flat" alt="nababur" /> </p>
 
-- 🔭 I’m currently working as a WordPress & Laravel Dev.
+- 🔭 I’m currently working on a WordPress theme & plugin.
 
 - 🌱 I’m currently learning **React, Vue Js, Next Js**
 
 - 📝 I regularly write articles on [https://nababur.com/](https://nababur.com/)
 
-- 💬 Ask me about **PHP, MysQL, Wordpress, Laravel**
-
-- 📫 How to reach me **nababurdev@gmail.com**
+- 📫 How to reach me **hello@nababur.com**
 
 
 <h3 align="left">Connect with me:</h3>
